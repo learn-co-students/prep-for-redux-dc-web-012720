@@ -1,7 +1,7 @@
 # Why Redux
 
 Predictable, easy to reason state management tool.
-
+jygjh
 
 
 ![gif](http://g.recordit.co/s2OFw0VtYb.gif)
